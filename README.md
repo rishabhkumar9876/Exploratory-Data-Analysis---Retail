@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis---Retail
+# Exploratory_Data_Analysis Retail
 Internship at The spark foundation
